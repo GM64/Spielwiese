@@ -77,7 +77,7 @@
         <!-- Maven plugins -->
         <checkstyle-maven-plugin.version>3.0.0</checkstyle-maven-plugin.version>
         <dependency.locations.enabled>false</dependency.locations.enabled>
-        <spring-boot-starter.version>2.1.4.RELEASE</spring-boot-starter.version>
+        <spring-boot-starter.version>2.5.12</spring-boot-starter.version>
     </properties>
   
 </project>
